@@ -1,1 +1,1 @@
-# 0x0A-argc_argv
+# Know the difference between argc and argv
